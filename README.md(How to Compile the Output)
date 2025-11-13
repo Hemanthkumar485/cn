@@ -1,0 +1,23 @@
+How to Compile and Run (Linux)
+
+Step 1: Save both files:
+
+  command: nano SlidSender.java
+  command: nano SlidReceiver.java
+
+
+Step 2: Compile them:
+
+  command: javac SlidSender.java SlidReceiver.java
+
+
+Step 3: Run them in separate terminals:
+
+Terminal 1 (Sender):
+
+  command: java SlidSender
+
+
+Terminal 2 (Receiver):
+
+  command: java SlidReceiver
