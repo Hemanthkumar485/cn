@@ -21,3 +21,4 @@ Terminal 1 (Sender):
 Terminal 2 (Receiver):
 
   command: java SlidReceiver
+
